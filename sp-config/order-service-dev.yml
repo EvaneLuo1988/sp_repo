@@ -31,4 +31,8 @@ spring:
   profiles: order2
   
 server:
-  port: 8202                      
+  port: 8202  
+ 
+cloud: 
+config: 
+override-none: true                      

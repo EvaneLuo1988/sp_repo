@@ -38,4 +38,7 @@ management:
 #        isolation:
 #          thread:
 #            timeoutInMilliseconds: 500  
-  
+ 
+cloud: 
+config: 
+override-none: true  
